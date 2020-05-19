@@ -1,0 +1,9 @@
+*.jpg
+*.svg
+*.emf
+*.txt
+__pycache__
+.idea
+checkpoint
+visualization
+*.7z
